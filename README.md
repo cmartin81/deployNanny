@@ -7,3 +7,6 @@ npm install
 node bin/www
 
 http://localhost:3001/nodes/application1
+
+
+Supports GET and POST
